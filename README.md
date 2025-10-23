@@ -2,7 +2,8 @@
 
 Um aplicativo simples e intuitivo de **previsão do tempo**, desenvolvido com **HTML, CSS e JavaScript puro**, que permite ao usuário buscar o clima atual de qualquer cidade do mundo em tempo real.
 
-[ Acesse a página](https://gustavomascarenhassfier.github.io/Previs-o-do-Tempo-Weather-App/)
+[![Visitar minha página](https://img.shields.io/badge/🌐_Visitar%20minha%20página-4CAF50?style=for-the-badge)](https://gustavomascarenhassfier.github.io/Previs-o-do-Tempo-Weather-App/)
+
 
 
 ---
