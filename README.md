@@ -13,7 +13,7 @@ Um aplicativo simples e intuitivo de **previsão do tempo**, desenvolvido com **
 5. [Estrutura de Pastas](#-estrutura-de-pastas)  
 6. [Exemplo de Uso](#-exemplo-de-uso)  
 7. [Melhorias Futuras](#-melhorias-futuras)  
-8. [Autor](#-autor)
+8. [Autor](#autor)
 
 ---
 
