@@ -6,18 +6,18 @@ Um aplicativo simples e intuitivo de **previsão do tempo**, desenvolvido com **
 
 ## 📖 Índice
 
-1. [💡 Sobre o Projeto](#-sobre-o-projeto)  
-2. [⚙️ Funcionalidades](#-funcionalidades)  
-3. [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-4. [🚀 Como Executar o Projeto](#-como-executar-o-projeto)  
-5. [📁 Estrutura de Pastas](#-estrutura-de-pastas)  
-6. [🖼️ Exemplo de Uso](#-exemplo-de-uso)  
-7. [🔮 Melhorias Futuras](#-melhorias-futuras)  
-8. [👨‍💻 Autor](#-autor-)
+1. [ Sobre o Projeto](#sobre-o-projeto)  
+2. [ Funcionalidades](#funcionalidades)  
+3. [ Tecnologias Utilizadas](#tecnologias-utilizadas)  
+4. [ Como Executar o Projeto](#como-executar-o-projeto)  
+5. [ Estrutura de Pastas](#estrutura-de-pastas)  
+6. [ Exemplo de Uso](#exemplo-de-uso)  
+7. [ Melhorias Futuras](#melhorias-futuras)  
+8. [ Autor](#autor)
 
 ---
 
-## 💡 Sobre o Projeto
+## 💡 Sobre o Projeto <a id="sobre-o-projeto"></a>
 
 O **Weather App** foi criado com o objetivo de praticar consumo de APIs e manipulação do DOM com JavaScript.  
 O usuário pode digitar o nome de uma cidade e visualizar:
@@ -30,7 +30,8 @@ O usuário pode digitar o nome de uma cidade e visualizar:
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades <a id="funcionalidades"></a>
+
 
 ✅ Buscar o clima em tempo real de qualquer cidade  
 ✅ Exibir ícone correspondente à condição do tempo  
@@ -40,7 +41,7 @@ O usuário pode digitar o nome de uma cidade e visualizar:
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## 🧠 Tecnologias Utilizadas  <a id="tecnologias-utilizadas"></a>
 
 | Tecnologia | Descrição |
 |-------------|------------|
@@ -52,7 +53,7 @@ O usuário pode digitar o nome de uma cidade e visualizar:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto <a id="como-executar-o-projeto"></a>
 
 ### 🔹 Pré-requisitos
 - Navegador atualizado (Chrome, Edge, Firefox, etc.)
@@ -78,7 +79,7 @@ O usuário pode digitar o nome de uma cidade e visualizar:
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas <a id="estrutura-de-pastas"></a>
 
 ```
 📦 weather-app
@@ -94,7 +95,7 @@ O usuário pode digitar o nome de uma cidade e visualizar:
 
 ---
 
-## 🖼️ Exemplo de Uso
+## 🖼️ Exemplo de Uso  <a id="exemplo-de-uso"></a>
 
 1. Digite o nome de uma cidade (ex: **Curitiba**)  
 2. Clique no botão de busca 🔍  
@@ -104,7 +105,7 @@ O usuário pode digitar o nome de uma cidade e visualizar:
    - Velocidade do vento
    - Umidade
 
-🧩 **Exemplo visual:**
+🧩 **Exemplo visual:** 
 
 ```
 Curitiba
@@ -116,7 +117,7 @@ Vento: 10 km/h | Umidade: 80%
 
 ---
 
-## 🔮 Melhorias Futuras
+## 🔮 Melhorias Futuras <a id="melhorias-futuras"></a>
 
 ✨ Adicionar suporte a geolocalização automática  
 ✨ Exibir previsão para os próximos dias  
@@ -126,7 +127,7 @@ Vento: 10 km/h | Umidade: 80%
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor <a id="autor"></a>
 
 **Gustavo Mascarenhas**  
 📍 Curitiba - PR  
