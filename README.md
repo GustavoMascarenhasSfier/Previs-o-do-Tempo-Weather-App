@@ -6,14 +6,14 @@ Um aplicativo simples e intuitivo de **previsão do tempo**, desenvolvido com **
 
 ## 📖 Índice
 
-1. [💡 Sobre o Projeto](#sobre-o-projeto)  
-2. [⚙️ Funcionalidades](#funcionalidades)  
-3. [🧠 Tecnologias Utilizadas](#tecnologias-utilizadas)  
-4. [🚀 Como Executar o Projeto](#como-executar-o-projeto)  
-5. [📁 Estrutura de Pastas](#estrutura-de-pastas)  
-6. [🖼️ Exemplo de Uso](#exemplo-de-uso)  
-7. [🔮 Melhorias Futuras](#melhorias-futuras)  
-8. [👨‍💻 Autor](#autor-)
+1. [💡 Sobre o Projeto](#-sobre-o-projeto)  
+2. [⚙️ Funcionalidades](#-funcionalidades)  
+3. [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+4. [🚀 Como Executar o Projeto](#-como-executar-o-projeto)  
+5. [📁 Estrutura de Pastas](#-estrutura-de-pastas)  
+6. [🖼️ Exemplo de Uso](#-exemplo-de-uso)  
+7. [🔮 Melhorias Futuras](#-melhorias-futuras)  
+8. [👨‍💻 Autor](#-autor-)
 
 ---
 
