@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/img.jpg");
+}
+
+
+.container {
+    width: 95%;
+    max-width: 450px;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 1;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+#cityInput {
+    border: 1px solid white;
+    outline: none;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color: #7c7c7c2b;
+    color: white;
+    width: calc(100% - 70px);
+    transition: all 0.3s ease;
+}
+
+#cityInput:focus {
+    border-color: #00cfff;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#buscar-botao {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #00cfff;
+    cursor: pointer;
+    float: right;
+    transition: background-color 0.3s ease;
+
+}
+
+#buscar-botao:hover {
+    background-color: #009bbb;
+}
+
+.img-busca {
+    width: 20px;
+   
+}
+
+.cidade {
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 300px;
+    text-transform: capitalize; /* deixa primeira letra maiúscula */
+}
+
+.previsao {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 20px;
+    text-transform: capitalize; /* deixa primeira letra maiúscula */
+}
+
+.temp {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 5px;
+
+}
+
+.min-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.tempMaxMin,
+.vento ,
+.umidade{
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.erro {
+    color: white;
+    margin-top: 10px;
+    font-weight: 500;
+}
